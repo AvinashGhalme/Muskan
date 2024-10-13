@@ -1,1 +1,1 @@
-Print("WELCOME MUSKAAN IN FIRST PRACTICAL......!")
+print("HII MUSKAAN")
